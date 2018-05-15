@@ -26,8 +26,8 @@
 			<div class="col-lg-12">
 				<ol class="breadcrumb">
 					<li><a href="#">个人管理</a></li>
-					<li><a href="#">朋友圈权限</a></li>
-					<li><a href="#">设置</a></li>
+					<li><a href="#">控制面板</a></li>
+					<li><a href="#">管理员设置</a></li>
 					<li><a href="#">欢迎您， <%=admin.getUsername()%></a></li>
 
 				</ol>
@@ -35,11 +35,11 @@
 			</div>
 			<div class="col-xs-3" id="myScrollspy">
 				<ul class="nav nav-pills nav-stacked" data-spy="affix">
-					<li class="active"><a href="#section-1">第一部分</a></li>
-					<li><a href="#section-2">第二部分</a></li>
-					<li><a href="#section-3">第三部分</a></li>
-					<li><a href="#section-4">第四部分</a></li>
-					<li><a href="#section-5">第五部分</a></li>
+					<li class="active"><a href="#section-1">更改学生信息</a></li>
+					<li><a href="#section-2">更改教师信息</a></li>
+					<li><a href="#section-3">添加学生信息</a></li>
+					<li><a href="#section-4">添加教师信息</a></li>
+					<li><a href="#section-5">更改成绩信息</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-9">
